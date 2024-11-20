@@ -10,8 +10,6 @@ html {
     /* 2 */
 }
 
-/* Sections
-
 body {
     margin: 0;
 }
@@ -24,8 +22,6 @@ h1 {
     font-size: 2em;
     margin: 0;
 }
-
-/* Grouping content
 
 hr {
     box-sizing: content-box;
@@ -42,9 +38,6 @@ pre {
     font-size: 1em;
     /* 2 */
 }
-
-/* Text-level semantics
-     ========================================================================== */
 
 a {
     background-color: transparent;
@@ -93,13 +86,9 @@ sup {
     top: -0.5em;
 }
 
-/* Embedded content
-
 img {
     border-style: none;
 }
-
-/* Forms
 
 button,
 input,
@@ -207,8 +196,6 @@ textarea {
     font: inherit;
     /* 2 */
 }
-
-/* Interactive
 
 details {
     display: block;
